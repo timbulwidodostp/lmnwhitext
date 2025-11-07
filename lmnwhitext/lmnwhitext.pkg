@@ -1,0 +1,5 @@
+D 'lmnwhitext': Panel Data Non Normality White Test Use lmnwhitext With STATA 19
+D
+F lmnwhitext.ado
+F lmnwhitext.dlg
+F lmnwhitext.sthlp
